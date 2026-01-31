@@ -5,9 +5,11 @@
 Dự án này phân tích mạng xã hội trong quy trình giao việc (handover) dựa trên lý thuyết đồ thị và các độ đo Centrality. Mục tiêu là xác định người quan trọng nhất trong hệ thống quy trình nghiệp vụ.
 
 ## UI
-[Graph](https://github.com/minhnndev/ERP-Advanced/tree/main/ERP%20Advanced/lecture-2/graph-visualize.png) | <img src="https://github.com/minhnndev/ERP-Advanced/tree/main/ERP%20Advanced/lecture-2/graph-visualize.png" />
 
-[Table](https://github.com/minhnndev/ERP-Advanced/tree/main/ERP%20Advanced/lecture-2/table-visualize.png) | <img src="https://github.com/minhnndev/ERP-Advanced/tree/main/ERP%20Advanced/lecture-2/table-visualize.png" />
+| Item | Link | Preview |
+| --- | --- | --- |
+| Graph | [graph-visualize.png](https://github.com/minhnndev/ERP-Advanced/blob/main/ERP%20Advanced/lecture-2/graph-visualize.png) | <img src="https://raw.githubusercontent.com/minhnndev/ERP-Advanced/main/ERP%20Advanced/lecture-2/graph-visualize.png" alt="Graph visualization" width="720" height="420" /> |
+| Table | [table-visualize.png](https://github.com/minhnndev/ERP-Advanced/blob/main/ERP%20Advanced/lecture-2/table-visualize.png) | <img src="https://raw.githubusercontent.com/minhnndev/ERP-Advanced/main/ERP%20Advanced/lecture-2/table-visualize.png" alt="Table visualization" width="720" height="420" /> |
 
 ## 🎯 Quy trình nghiệp vụ được phân tích
 
