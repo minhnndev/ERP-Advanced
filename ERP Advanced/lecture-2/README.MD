@@ -4,6 +4,11 @@
 
 Dự án này phân tích mạng xã hội trong quy trình giao việc (handover) dựa trên lý thuyết đồ thị và các độ đo Centrality. Mục tiêu là xác định người quan trọng nhất trong hệ thống quy trình nghiệp vụ.
 
+## UI
+[Graph](https://github.com/minhnndev/ERP-Advanced/tree/main/ERP%20Advanced/lecture-2/graph-visualize.png) | <img src="https://github.com/minhnndev/ERP-Advanced/tree/main/ERP%20Advanced/lecture-2/graph-visualize.png" />
+
+[Table](https://github.com/minhnndev/ERP-Advanced/tree/main/ERP%20Advanced/lecture-2/table-visualize.png) | <img src="https://github.com/minhnndev/ERP-Advanced/tree/main/ERP%20Advanced/lecture-2/table-visualize.png" />
+
 ## 🎯 Quy trình nghiệp vụ được phân tích
 
 **Tên quy trình:** Xử lý đơn hàng E-commerce
